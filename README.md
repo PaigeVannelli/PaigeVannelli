@@ -1,10 +1,8 @@
 ### Hi! I'm Paige
 ## About Me
-* Front end Software Engineer 
+* Front end Software Engineering Student
 * Always looking for the next challenge and opportunity to learn
 * Turing School of Software Engineering student
-* Tesla and Lyft Alum 
-* Santa Clara University Graduate 
 * Live in Denver and grew up in California
 ## My Stats
 [![Paige's github stats](https://github-readme-stats.vercel.app/api?username=PaigeVannelli&theme=vue)](https://github.com/PaigeVannelli/github-readme-stats)
