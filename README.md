@@ -1,10 +1,11 @@
 ### Hi! I'm Paige
 ## About Me
-* Front end software engineer 
+* Front end Software Engineer 
 * Always looking for the next challenge and opportunity to learn
-* Live in Denver and grew up in Colorado
+* Live in Denver and grew up in California
 * Turing School of Software Engineering student
-* Colorado State University Grad
+* Santa Clara University Graduate 
+* Tesla and Lyft Alum 
 ## My Stats
 [![Paige's github stats](https://github-readme-stats.vercel.app/api?username=PaigeVannelli&theme=vue)](https://github.com/PaigeVannelli/github-readme-stats)
 [![Paige's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaigeVannelli&langs_count=5&theme=vue&layout=compact)](https://github.com/PaigeVannelli/github-readme-stats)
