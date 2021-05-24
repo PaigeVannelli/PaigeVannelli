@@ -16,7 +16,7 @@
 <!-- ## My Trophies
 [![Paige's Tophies](https://github-profile-trophy.vercel.app/?username=PaigeVannelli&title=Commit,Issues,PullRequest,Repository,Joined2020,Stars&theme=vue)](https://github.com/PaigeVannelli/github-profile-trophy) -->
 ## My Languages
-<p float="left">
+<!-- <p float="left"> -->
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
@@ -38,5 +38,5 @@
 <img src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>
 <img src="https://img.shields.io/badge/CIRCLECI%20-%23161616.svg?&style=for-the-badge&logo=circleci&logoColor=white"/>
 <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> -->
-</p>
+<!-- </p> -->
 
