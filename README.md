@@ -1,13 +1,20 @@
 ### Hi! I'm Paige
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/paigevannelli/)
 ## About Me
-* Front end Software Engineering Student
+* I'm a Front end Software Engineer in Denver, CO. 
 * Always looking for the next challenge and opportunity to learn
-* Live in Denver and grew up in California
+* Skills:
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+
 ## My Stats
 [![Paige's github stats](https://github-readme-stats.vercel.app/api?username=PaigeVannelli&theme=vue)](https://github.com/PaigeVannelli/github-readme-stats)
 [![Paige's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaigeVannelli&langs_count=5&theme=vue&layout=compact)](https://github.com/PaigeVannelli/github-readme-stats)
-## My Trophies
-[![Paige's Tophies](https://github-profile-trophy.vercel.app/?username=PaigeVannelli&title=Commit,Issues,PullRequest,Repository,Joined2020,Stars&theme=vue)](https://github.com/PaigeVannelli/github-profile-trophy)
+<!-- ## My Trophies
+[![Paige's Tophies](https://github-profile-trophy.vercel.app/?username=PaigeVannelli&title=Commit,Issues,PullRequest,Repository,Joined2020,Stars&theme=vue)](https://github.com/PaigeVannelli/github-profile-trophy) -->
 ## My Languages
 <p float="left">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
