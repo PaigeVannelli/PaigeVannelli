@@ -1,7 +1,7 @@
 ### Hi! I'm Paige
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/paigevannelli/)
 ## About Me
-* I'm a Front end Software Engineer in Denver, CO. 
+* I'm a Front End Software Engineer based in Denver, CO. 
 * Always looking for the next challenge and opportunity to learn
 <!-- * Skills:
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
